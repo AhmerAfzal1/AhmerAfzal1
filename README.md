@@ -67,6 +67,4 @@ Currently focusing on **Kotlin, Java, and Jetpack Libraries** while also explori
 
 ---
 
-✨ *“Learning never stops, and every line of code brings me closer to becoming better.”*  
-
 ⭐ From [AhmerAfzal1](https://github.com/AhmerAfzal1)
