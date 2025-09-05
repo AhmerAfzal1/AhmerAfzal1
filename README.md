@@ -9,14 +9,18 @@ Currently focusing on **Kotlin, Java, and Jetpack Libraries** while also explori
 
 ## 🔥 GitHub Stats & Activity  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmerAfzal1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmerAfzal1&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmerAfzal1&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+### 📊 Overall Stats  
+<img src="https://github-readme-stats.vercel.app/api?username=AhmerAfzal1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+
+### 🔥 Contribution Streak  
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AhmerAfzal1&theme=tokyonight&hide_border=true" height="180"/>
+
+### 🏆 Most Used Languages  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmerAfzal1&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
 
 ---
 
